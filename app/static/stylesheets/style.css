@@ -176,3 +176,21 @@ footer {
   padding: 1%;
   font-size: 110%;
 }
+
+.imgSize {
+  width:25%
+}
+
+.headStyle{
+  font-size: 30px;
+}
+
+.banner{
+  padding: 150px 0 100px;
+  background-color: #3671a1;
+}
+.beginText {
+  font-size: 25px;
+  color: #fff5eb;
+  padding:100px
+}
